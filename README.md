@@ -1,2 +1,2 @@
 # Unsupervised-Learning
-mengimplementasikan dan menganalisis algoritma  unsupervised learning (ANN) dari data Arrhythmia.csv
+mengimplementasikan dan menganalisis algoritma  supervised learning (ANN) dari data Arrhythmia.csv
